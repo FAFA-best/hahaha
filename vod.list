@@ -1,0 +1,165 @@
+HOST-SUFFIX, xptvhelper.link,VOD
+#厂长
+HOST, www.czzyvideo.com,VOD
+HOST, qimgs.qunarzz.com,VOD
+HOST, lf16-fe.resso.me,VOD
+HOST-SUFFIX, akamaized.net,VOD
+HOST, t001.czzy.fun,VOD
+HOST, vunyundun.czys.art,VOD
+HOST-SUFFIX, larksuitecdn.com,VOD
+HOST, dc.xhscdn.com,VOD
+HOST, mdn.alipayobjects.com,VOD
+HOST-SUFFIX, czzy.site,VOD
+HOST-SUFFIX, czys.top,VOD
+HOST-SUFFIX, czzy.top,VOD
+HOST-SUFFIX, czzy.tv,VOD
+HOST-SUFFIX, cz01.vip,VOD
+HOST-SUFFIX, cz01.tv,VOD
+HOST-SUFFIX, czzy22.com,VOD
+HOST-SUFFIX, czzy66.com,VOD
+HOST-SUFFIX, czzy77.com,VOD
+HOST-SUFFIX, czzy88.com,VOD
+HOST-SUFFIX, cz233.com,VOD
+#在线之家
+HOST-SUFFIX, zxzja.com,VOD
+HOST-SUFFIX, ctyunxs.cn,VOD
+HOST-SUFFIX, zxzj.site,VOD
+HOST-SUFFIX, zxzjhd.com,VOD
+HOST-SUFFIX, zxzj.pro,VOD
+#低端影视
+HOST-SUFFIX, ddrk.me,VOD
+HOST-SUFFIX, ddys.pro,VOD
+HOST-SUFFIX, ddys.mov,VOD
+HOST-SUFFIX, ddys.tv,VOD
+HOST-SUFFIX, ddys.info,VOD
+HOST-SUFFIX, ddys.love,VOD
+#AGE
+HOST-SUFFIX, agedm.org,VOD
+#ギリギリ
+HOST, anime.girigirilove.com,VOD
+HOST, love.girigirilove.com,VOD
+HOST, m3u8.girigirilove.com,VOD
+#小苹果
+IP-CIDR, 163.123.192.184/32,VOD
+IP-CIDR, 148.59.74.50/32,VOD
+IP-CIDR, 205.178.182.17/32,VOD
+IP-CIDR, 163.123.192.169/32,VOD
+IP-CIDR, 163.123.192.68/32,VOD
+IP-CIDR, 63.123.192.182/32,VOD
+IP-CIDR, 205.178.182.8/32,VOD
+IP-CIDR, 163.123.192.108/32,VOD
+IP-CIDR, 163.123.192.29/32,VOD
+IP-CIDR, 205.178.182.52/32,VOD
+IP-CIDR, 163.123.192.17/32,VOD
+HOST, c.xpgtv.net,VOD
+HOST, item.xpgtv.xyz,VOD
+#星芽
+HOST, qiniu.rongjuwh.cn,VOD
+HOST, app.whjzjx.cn,VOD
+HOST, u.shytkjgs.com,VOD
+IP-CIDR, 218.22.23.189/32,VOD
+IP-CIDR, 117.68.35.135/32,VOD
+IP-CIDR, 218.22.23.229/32,VOD
+HOST-SUFFIX, qnqcdn.net,VOD
+HOST-SUFFIX, xingya.com.cn,VOD
+IP-CIDR, 117.68.35.139/32,VOD
+#烧火影视
+HOST, saohuo.tv,VOD
+HOST, hhjx.hhplayer.comundefined,VOD
+HOST-SUFFIX, video.iqiyi.com,VOD
+HOST-SUFFIX, qitu-zuida.com,VOD
+HOST, om.tc.qq.com,VOD
+HOST-SUFFIX, ibytedtos.com,VOD
+HOST-SUFFIX, 1ljx.com,VOD
+HOST-SUFFIX, smtcdns.com,VOD
+HOST, cme-video.vod-qcloud.com,VOD
+HOST, hhjx.hhplayer.com,VOD
+#hdmoli
+HOST, hdmoli.pro,VOD
+HOST, v.damoli.pro,VOD
+#4k-av
+HOST, 4k-av.com,VOD
+#瓜子
+HOST, api.9cec79d.com,VOD
+HOST, wjm.kemfsj.com,VOD
+#anfuns
+HOST-SUFFIX, anfuns.org,VOD
+HOST-SUFFIX, bytegiftia.top,VOD
+HOST-SUFFIX, lenovo.com.cn,VOD
+HOST, image.zhihuishu.com,VOD
+HOST, presale.111.com.cn,VOD
+#NO視頻
+HOST, www.novipnoad.net,VOD
+HOST-SUFFIX, novipnoad.net,VOD
+#韩剧看看
+HOST, www.hanjukankan.com,VOD
+HOST, glzx.thekutv.com,VOD
+HOST-SUFFIX, thehanju.com,VOD
+HOST-SUFFIX, vvddoo.com,VOD
+#影视天堂
+HOST-SUFFIX, ysttv.com,VOD
+#libvio
+HOST, www.libvio.cc,VOD
+HOST-SUFFIX, mcloud.139.com,VOD
+HOST-SUFFIX, libvio.cloud,VOD
+#金牌影院
+HOST-SUFFIX, cfkj86.com,VOD
+#两个BT
+HOST-SUFFIX, bttwo.org,VOD
+HOST-SUFFIX, bttwoo.com,VOD
+HOST-SUFFIX, bttwo.vip,VOD
+#素白白影院
+HOST, dc.xhscdn.com,VOD
+HOST-SUFFIX, subaibai.vip,VOD
+HOST-SUFFIX, subaibai.com,VOD
+HOST-SUFFIX, subaibaiys.com,VOD
+#杂七杂八的网站封面
+HOST, img.kuaichezy.net,VOD
+HOST, puui.qpic.cn,VOD
+HOST-SUFFIX, jisuimage.com,VOD
+HOST-SUFFIX, toutiaoimg.com,VOD
+HOST-SUFFIX, yzzyimages.com,VOD
+HOST, hhmage.com,VOD
+HOST, wework.qpic.cn,VOD
+HOST, pic.rmb.bdstatic.com,VOD
+HOST-SUFFIX, alicdn.com,VOD
+HOST-SUFFIX, ykimg.com,VOD
+HOST-SUFFIX, netease.com,VOD
+HOST-SUFFIX, gtimg.cn,VOD
+HOST-SUFFIX, meituan.net,VOD
+HOST, mdn.alipay.com,VOD
+HOST, fc.sinaimg.cn,VOD
+HOST, img.moegirl.org.cn,VOD
+HOST, pic8.iqiyipic.com,VOD
+HOST, p0.qhimg.com,VOD
+HOST-SUFFIX, iqiyipic.com,VOD
+HOST, api.zaqohu.com,VOD
+HOST, images.67c6c7a.com,VOD
+HOST, pic7.58cdn.com.cn,VOD
+HOST, help-ol.bj.bcebos.com,VOD
+HOST-SUFFIX, loli.net,VOD
+HOST-SUFFIX, 360buyimg.com,VOD
+HOST, pic1.imgyzzy.com,VOD
+HOST, get.sogou.com,VOD
+HOST, open.bigmodel.cn,VOD
+HOST, vcover-vt-pic.puui.qpic.cn,VOD
+HOST, img.lzzyimg.com,VOD
+HOST, fs-im-kefu.7moor-fs1.com,VOD
+HOST, img.image8899.net,VOD
+HOST, img.picgo.net,VOD
+HOST, pic3.yzzyimages.com,VOD
+HOST, 647bc185.szrtcpa.com,VOD
+HOST, img.98ha.com,VOD
+HOST, challenge.rivers.chaitin.cn,VOD
+HOST, image.maimn.com,VOD
+HOST-SUFFIX, baidu.com,VOD
+HOST, img.liangzipic.com,VOD
+HOST, imagev2.xmcdn.com,VOD
+HOST, pic.imgdb.cn,VOD
+HOST, pic3.yzzyimg.online,VOD
+HOST, wx4.sinaimg.cn,VOD
+HOST, img.jisuimage.com,VOD
+HOST, pic.wujinpp.com,VOD
+HOST, suboimage.com,VOD
+HOST, img.ffzy888.com,VOD
+HOST, git.886.be,VOD
