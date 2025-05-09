@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
   - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,branch.io
-  - DOMAIN,app-analytics-services.com
   - DOMAIN,kpck4q-launches.appsflyersdk.com
   - DOMAIN,kpck4q-skadsdkless.appsflyersdk.com
   - DOMAIN,o0137140.ingest.us.sentry.io
